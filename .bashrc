@@ -102,5 +102,3 @@ if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
 fi
 
 PATH=/usr/local/bin:$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
-
-alias homeconfig='git --git-dir=/Users/oliversong/.homeconfig.git/ --work-tree=/Users/oliversong'

@@ -16,3 +16,5 @@ alias ls="ls -G"
 alias fibrdep="ssh root@platform-8ae07d25.d2.tumblr.net"
 alias gnv="source pythonEnv/bin/activate"
 alias varn="python varnish.py"
+
+alias homeconfig='git --git-dir=/Users/oliversong/.homeconfig.git/ --work-tree=/Users/oliversong'
