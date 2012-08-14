@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/oliversong/.rvm/gems/ruby-1.9.2-p320/gems/collins-1.0.0/lib/collins'
+let g:netrw_dirhist_2='/Users/oliversong/.rvm/gems/ruby-1.9.2-p320/gems/collins-1.0.0'
+let g:netrw_dirhist_3='/Users/oliversong/.vim'
+let g:netrw_dirhist_4='/Users/oliversong/Vim-configuration/.vim'
+let g:netrw_dirhist_5='/Users/oliversong/.vim'
